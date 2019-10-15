@@ -1,2 +1,2 @@
 # slider
-[SLIDER](slider/slider.html)
+[SLIDER](slider.html)
